@@ -16,7 +16,5 @@ A modern, responsive, and sunset-inspired landing page designed for a profession
 - [Google Fonts](https://fonts.google.com/) (Outfit font family)
 
 ## 🚀 Live Demo
-You can view the live project here: [# brightnest-landing-page
-A responsive landing page for BrightNest, a premium house cleaning service. Built with HTML, CSS, and vanilla JavaScript.
-](https://amrsaeed820.github.io/brightnest-landing-page/)
+You can view the live project here: [brightnest landing page preview](https://amrsaeed820.github.io/brightnest-landing-page/)
 
